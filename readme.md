@@ -9,7 +9,7 @@ Tableau integration projects for Data Analytics, Business Intelligence and Data 
 ### Live Demo
 + [View Project Details on Tableau Public](https://public.tableau.com/views/Tableau-for-Data-Analytics-and-Business-Intelligence/EmployeeInformationDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-![Dashboard on Tableu Public](https://raw.githubusercontent.com/daniel-datasci/SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png)
+![Dashboard on Tableu Public](https://raw.githubusercontent.com/ptyadana/SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png)
 
 ## Projects
 **SQL - MySQL for Data Analytics and Business Intelligence**: data analysis and data visualizations for answering business related questions for management including,
